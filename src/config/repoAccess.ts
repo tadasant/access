@@ -142,7 +142,7 @@ export const REPOSITORY_ACCESS: RepositoryAccess[] = [
       { team: 'rust-sdk', permission: 'triage' },
       { team: 'sdk-maintainers', permission: 'triage' },
       { team: 'security-wg', permission: 'admin' },
-      { team: 'steering-committee', permission: 'triage' },
+      { team: 'steering-committee', permission: 'push' },
       { team: 'swift-sdk', permission: 'triage' },
       { team: 'transport-wg', permission: 'triage' },
       { team: 'typescript-sdk', permission: 'triage' },
